@@ -26,5 +26,6 @@ const heading  = React.createElement("h1",
             ])
                         
          ])
-console.log(parent);
+// console.log(parent);
 root.render(parent);
+//dasnikhildasnikhil
