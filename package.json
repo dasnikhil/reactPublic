@@ -1,0 +1,26 @@
+{
+  "name": "react-tut",
+  "version": "1.0.0",
+  "description": "it is a tutorial for react JS",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dasnikhil/reactPublic.git"
+  },
+  "keywords": [
+    "react",
+    "tutorial"
+  ],
+  "author": "Nikhildas",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dasnikhil/reactPublic/issues"
+  },
+  "homepage": "https://github.com/dasnikhil/reactPublic#readme",
+  "devDependencies": {
+    "parcel": "^2.12.0"
+  }
+}
